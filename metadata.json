@@ -1,0 +1,14 @@
+{
+    "description": "Another test of brainspell",
+    "exclusion_criteria": [
+        "Does not have neuroimaging"
+    ],
+    "inclusion_criteria": [
+        "Has neuroimaging"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "Nine-hole peg test"
+    ],
+    "unmapped_pmids": []
+}
