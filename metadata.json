@@ -6,7 +6,13 @@
     "inclusion_criteria": [
         "Has neuroimaging"
     ],
-    "search_to_pmids": {},
+    "search_to_pmids": {
+        "multiple sclerosis AND neuroimaging AND morphometry AND \"gray matter volume\" ": [
+            "28616036",
+            "17656372",
+            "22626631"
+        ]
+    },
     "tags": [
         "Nine-hole peg test"
     ],
